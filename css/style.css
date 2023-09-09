@@ -51,7 +51,9 @@ ul {
     list-style-type: none;
 }
 
-
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
 
 .link-logo {
     display: flex;
@@ -115,7 +117,7 @@ color: var(--Pressed-state);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #e7e9fc 
+    
 }
 
 .header-nav {
@@ -365,12 +367,13 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+display: inline-block;
+margin-bottom: 16px;
 }
 
 .link-logo-footer .accent {
 color: var(--cloud, #F4F4FD);
-display: inline-block;
-margin-bottom: 16px;
+
 }
 .footer-text {
     color: var(--cloud, #F4F4FD);
