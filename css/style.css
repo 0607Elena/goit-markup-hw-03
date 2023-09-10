@@ -65,6 +65,7 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase; 
+margin-right: 76px;
 }
 
 .link-logo .accent {
@@ -90,6 +91,13 @@ color: var(--dark-NAVY-BLUE);
 .menu-navigation a:focus{
     color:#404bbf;
  }
+
+.list-navigation {
+    padding: 24px 0;
+}
+
+
+
 .contacts {
     font-style: normal;
 }
@@ -113,12 +121,7 @@ color: var(--Pressed-state);
     color: var(--Pressed-state);
 }
 
-.header-inner {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
-}
+
 
 .header-nav {
     display: flex;
@@ -138,7 +141,7 @@ color: var(--Pressed-state);
     display: flex;  
 }
 
-.heder-contacts-list{
+.header-contacts-list{
     display: flex;
     gap: 40px;
     padding-right: 156px;
@@ -242,7 +245,6 @@ letter-spacing: 0.02em;
     padding: 120px 0;
 }
 
-
 .our-team-list {
     display: flex;
     gap: 24px;
@@ -277,21 +279,17 @@ margin-bottom: 8px;
 }
 
 .our-team-profession {
-
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 
 }
 
-
 .our-team-info {
 padding-top: 32px;
 padding-bottom: 32px;
 text-align: center;
 }
-
-
 
 
 
