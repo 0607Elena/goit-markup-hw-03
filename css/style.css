@@ -211,7 +211,6 @@ border-radius: 4px;
     padding: 120px 0;
 }
 
-
 .our-advantages-list{
     display: flex;
     gap: 24px;
@@ -220,7 +219,6 @@ border-radius: 4px;
 .our-advantages-item {
     width: calc((100% - 72px) / 4);
 }
-
 
 .our-advantages-title {
 color:var(--dark-NAVY-BLUE);
@@ -240,7 +238,7 @@ letter-spacing: 0.02em;
 /* our team */
 
 .our-team {
-    
+    padding: 120px 0;
 }
 
 .our-team-inner {
@@ -304,6 +302,11 @@ text-align: center;
 
 
 /* our portfolio */
+
+.our-portfolio {
+    padding-top: 120px;
+     padding-bottom: 120px; 
+}
 
 .our-portfolio-inner {
     display: flex;
