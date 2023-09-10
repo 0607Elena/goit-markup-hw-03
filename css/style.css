@@ -295,13 +295,6 @@ text-align: center;
      padding-bottom: 120px; 
 }
 
-.our-portfolio-inner {
-    display: flex;
-    flex-direction: column;
-
-    
-
-}
 
 .our-portfolio-title{
     color:var(--dark-NAVY-BLUE);
