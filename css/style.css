@@ -137,14 +137,11 @@ color: var(--Pressed-state);
     flex-grow: 1; 
 }
 
-.header-contacts {  
-    display: flex;  
-}
 
 .header-contacts-list{
     display: flex;
     gap: 40px;
-    padding-right: 156px;
+    
     
 }
 
