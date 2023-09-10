@@ -14,7 +14,6 @@
 
 }
 
-
 *,
 *::before,
 *::after {
@@ -26,7 +25,7 @@ h1, h2, h3, h4, h5, h6, p { margin-top: 0;
     margin-top: 0; margin-bottom: 0; padding-left: 0;}
 
 .container {
-    max-width: 1440px;
+    width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
 }
@@ -38,7 +37,7 @@ img {
 }
 
 body {
-    font-family: Roboto, sans-serif;
+font-family: Roboto, sans-serif;
 color: var(--Text) ;
 background-color: var(--White-background);
 }
@@ -52,6 +51,7 @@ ul {
 }
 
 .header {
+    display: flex;
     border-bottom: 1px solid #e7e9fc;
 }
 
