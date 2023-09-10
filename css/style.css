@@ -218,6 +218,7 @@ border-radius: 4px;
 
 .our-advantages-item {
     width: calc((100% - 72px) / 4);
+    
 }
 
 .our-advantages-title {
@@ -241,16 +242,7 @@ letter-spacing: 0.02em;
     padding: 120px 0;
 }
 
-.our-team-inner {
-    background-color: var(--Light);
 
-    display: flex;
-    flex-direction: column;
-    
-padding-top: 120px;
-padding-bottom: 120px;
-    margin-bottom: 147px;
-}
 .our-team-list {
     display: flex;
     gap: 24px;
