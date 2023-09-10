@@ -162,8 +162,6 @@ letter-spacing: 0.02em;
 margin-bottom: 48px;
 max-width: 496px;
 
-
-
 }
 
 .button {
@@ -192,10 +190,6 @@ border-radius: 4px;
     background-color:#404BBF;
 }
 
-.box-button {
-
-    
-}
 /* our advantages*/
 
 .visually-hidden {
@@ -204,6 +198,12 @@ border-radius: 4px;
     overflow: hidden;
     white-space: nowrap;   
 }
+
+.our-advantages {
+    padding: 120px 0;
+}
+
+
 
 .our-advantages-inner {
     display: flex;
