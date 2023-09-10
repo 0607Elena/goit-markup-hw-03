@@ -251,6 +251,8 @@ letter-spacing: 0.02em;
 
 .our-team-item {
 background-color: #FFFFFF;
+width: calc((100% - 72px) / 4);
+border-radius: 0px 0px 4px 4px; 
 }
 
 .our-team-title {
@@ -270,7 +272,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.02em;
-padding-bottom: 8px;
+margin-bottom: 8px;
 
 }
 
