@@ -73,9 +73,7 @@ margin-right: 76px;
 .link-logo .accent {
 color: var(--dark-NAVY-BLUE);
 }
-.menu-navigation  {
-    display: flex;
-}
+
     
 .menu-navigation a {
     color: var(--dark-NAVY-BLUE);
