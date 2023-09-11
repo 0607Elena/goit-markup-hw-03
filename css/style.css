@@ -101,6 +101,7 @@ color: var(--dark-NAVY-BLUE);
 
 
 .contacts {
+    display: flex;
     font-style: normal;
 }
 .contacts a {
