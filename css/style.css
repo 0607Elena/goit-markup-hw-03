@@ -55,7 +55,7 @@ ul {
 
 .header {
     border-bottom: 1px solid #e7e9fc;
-    padding: 24px 0;;
+    padding: 24px 0;
 }
 
 .link-logo {
@@ -150,7 +150,6 @@ color: var(--Pressed-state);
 
 .hero {
     background: var(--navyblue, #2E2F42);
-    margin-bottom: 120px;
     padding: 188px 0;
 
 }
@@ -160,6 +159,7 @@ font-size: 56px;
 line-height: 1.07; 
 text-align: center;
 letter-spacing: 0.02em;
+margin: 0 auto;
 margin-bottom: 48px;
 max-width: 496px;
 
@@ -181,6 +181,7 @@ height: 56px;
 border: none;
 background-color:#4d5ae5;
 border-radius: 4px;
+margin: 0 auto;
 }
 
 .button:hover {
@@ -241,6 +242,7 @@ letter-spacing: 0.02em;
 
 .our-team {
     padding: 120px 0;
+    background-color: var(--Light);
 }
 
 .our-team-list {
